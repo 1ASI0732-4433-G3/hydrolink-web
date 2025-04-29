@@ -1,3 +1,4 @@
 export const environment = {
-  apiUrl: 'https://original-kellsie-hydroLink-a06512fa.koyeb.app/api/v1'
+  production: true,
+  apiUrl: 'https://inherent-steffi-hydrolink-531626a5.koyeb.app'
 };
